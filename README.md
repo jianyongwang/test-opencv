@@ -64,5 +64,6 @@ int main()
 	imshow("contours", group);
 	waitKey(0);
 	system("pause");
+	cout<<test<<endl;
 	return 0;
 }
